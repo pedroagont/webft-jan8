@@ -21,9 +21,12 @@ setTimeout(() => {
 console.log(3);
 
 // Callback hell
+// Example Malcolm in the Middle Hal fixing a lightbulb:
+// https://www.youtube.com/watch?v=AbSehcT19u0
+
 // fixLightbulb(() => {
 //   fixShelf(() => {
-//     handleTool(() => {
+//     fixDrawer(() => {
 //       buyLubricant(() => {
 //         fixCar();
 //       });
